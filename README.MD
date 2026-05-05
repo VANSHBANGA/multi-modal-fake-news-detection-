@@ -44,9 +44,9 @@ The dataset contains labeled news articles categorized as:
 * REAL
 * FAKE
 
-👉 If dataset is large, upload it to Google Drive and share link here:
 
-Dataset Link: [Add your Google Drive link here]
+
+Dataset Link: []
 
 ---
 
